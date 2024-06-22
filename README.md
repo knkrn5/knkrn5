@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knkrn5
-- 👀 I’m interested in finance , AI and OSINT.
-- 🌱 I’m currently learning more about AI, financial analysis and network privacy (OSINT).
+- 👀 I’m interested in finance , AI and OSINT etc.
+- 🌱 I’m currently learning more about AI, financial analysis and network privacy (OSINT) etc.
 - 💞️ I’m looking to collaborate on to work on any project to gain experience
 - 📫 How to reach me contact details on profile.
 - 😄 Pronouns: He
