@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on to work on any project to gain experience
 - 📫 How to reach me contact details on profile.
 - 😄 Pronouns: He
-- ⚡ Fun fact: at the end everything becomes nostalgic....
+- ⚡ Fun fact: at the end everyone is going to die, so always be cool!
 
 <!---
 knkrn5/knkrn5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
