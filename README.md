@@ -4,12 +4,6 @@
 🌐 Working with React, Node.js, Spring Boot  
 💼 Visit my website: [karan.email](https://karan.email)
 
-## 🛠️ Projects
-- 🔗 [karan.email](https://karan.email) — My personal website.
-- 🔗 [Contact Form API](https://github.com/knkrn5/contact-form-api) — CRUD contact management API.
-- 🔗 [Full Stack Docker App](https://github.com/knkrn5/fullstack-docker-app) — React + Node.js + PostgreSQL + Docker.
-- 🔗 [Chatbot Frontend](https://github.com/knkrn5/chatbot-frontend) — React-based chatbot interface.
-
 ## 📚 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knkrn5&layout=compact&theme=radical)
 
