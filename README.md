@@ -25,7 +25,3 @@
 
 ## 📊 GitHub Stats
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=knkrn5&show_icons=true&theme=radical)
-
-## 📫 Reach Me
-- Portfolio: [karan.email](https://karan.email)
-- LinkedIn: [Your LinkedIn Profile](#)
