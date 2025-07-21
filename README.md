@@ -9,6 +9,19 @@
 - Payment Gateway Integration
 - Dockerized Full Stack Apps
 
+## 📚 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knkrn5&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=knkrn5&theme=radical)
+
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=knkrn5&theme=radical)
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/knkrn5/knkrn5/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 📊 GitHub Stats
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=knkrn5&show_icons=true&theme=radical)
 
