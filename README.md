@@ -4,8 +4,6 @@
 🌐 Working with React, Node.js, Spring Boot  
 💼 Visit my website: [karan.email](https://karan.email)
 
-## 📚 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knkrn5&layout=compact&theme=radical)
 
 ## 🛠️ Tech Stack:
 
@@ -23,16 +21,14 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=knkrn5&theme=radical)
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=knkrn5&theme=radical)
-
-## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/knkrn5/knkrn5/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knkrn5&layout=compact&theme=radical)
 
 
 ## 📊 GitHub Stats
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=knkrn5&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=knkrn5&theme=radical)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=knkrn5&theme=radical)
+
+
