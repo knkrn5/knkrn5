@@ -4,7 +4,7 @@
 💼 Visit my website: [karan.email](https://karan.email)
 
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
