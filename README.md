@@ -22,6 +22,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=knkrn5&theme=radical)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=knkrn5&theme=radical)
-
 
