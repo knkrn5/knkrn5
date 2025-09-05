@@ -3,6 +3,8 @@
 🚀 Full Stack Developer  
 💼 Visit my website: [karan.email](https://karan.email)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=👋+Hello%2C+I'm+Karan;🚀+Developer+%7C+Full+Stack+Engineer;🌐+karan.email)](https://karan.email)
+
 
 ## 🛠️ Tech Stack
 
