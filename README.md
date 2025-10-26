@@ -22,7 +22,7 @@
 
 
 ## 📊 GitHub Stats
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=knkrn5&show_icons=true&theme=radical)
+<!-- ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=knkrn5&show_icons=true&theme=radical) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=knkrn5&theme=radical)
 
