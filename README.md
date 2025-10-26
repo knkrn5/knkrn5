@@ -1,6 +1,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=👋+Hello%2C+I'm+Karan;🚀+Full+Stack+Developer;🌐+karan.email)](https://karan.email) -->
 
-![mysvg](./my.svg) ![techsvg](./tech.svg)
+![mysvg](./my.svg)
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +20,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![techsvg](./tech.svg)
+<!-- ![techsvg](./tech.svg) -->
 
 ## 📊 GitHub Stats
 <!-- ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=knkrn5&show_icons=true&theme=radical) -->
