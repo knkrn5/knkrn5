@@ -20,6 +20,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+![techsvg](./tech.svg)
 
 ## 📊 GitHub Stats
 <!-- ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=knkrn5&show_icons=true&theme=radical) -->
