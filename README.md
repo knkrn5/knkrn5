@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=👋+Hello%2C+I'm+Karan;🚀+Full+Stack+Developer;🌐+karan.email)](https://ka-ran.me)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=👋+Hello%2C+I'm+Karan;🚀+Full+Stack+Developer;🌐+ka-ran.me)](https://ka-ran.me)
 
 <!-- ![mysvg](./my.svg)  -->
 
